@@ -29,3 +29,8 @@ gtkwave wave.vcd
 dot -Tpng logic0.dot -o logic0.png
 open logic0.png
 ```
+
+## Output
+```bash
+logic0.png
+```
